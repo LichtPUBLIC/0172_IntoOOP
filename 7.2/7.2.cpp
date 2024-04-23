@@ -7,3 +7,5 @@ private:
 public:
     float luas;
 
+    void input() {
+ 
